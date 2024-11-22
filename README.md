@@ -2,13 +2,6 @@
 
 ## Named after Mundra Port, Kutch, Gujarat, MUNDRA - MUNSoc Delegate Resource Application is a centralized database designed to optimize event planning, streamline communication, and facilitate delegate management
 
-### Deployment environments
-
-| Environment | Branch | Documentation URL                  |
-| ----------- | ------ | ---------------------------------- |
-| PROD        | main   | https://mundra.nnisarg.in/docs     |
-| DEV         | dev    | https://mundra-dev.nnisarg.in/docs |
-
 ### Setup
 
 1. Clone the repository:
