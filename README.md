@@ -7,7 +7,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nnisarggada/mundra
+git clone https://github.com/hect1k/mundra
 cd mundra
 ```
 
