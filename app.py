@@ -50,8 +50,7 @@ def status():
 ####################
 
 # Auth
-
-
+#i was here
 @app.post(
     "/register",
     tags=["Auth"],
